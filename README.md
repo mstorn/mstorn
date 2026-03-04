@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Marc 👋
 
-<!--
-**mstorn/mstorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Java Fullstack Developer & Software Architect with focus on modernizing enterprise applications and building scalable cloud-native systems.
 
-Here are some ideas to get you started:
+## 🔧 Tech Focus
+- Java 21 / Spring Boot
+- Microservices & Event-Driven Architectures
+- Apache Kafka
+- Kubernetes & Docker
+- REST APIs
+- Cloud-Native Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I do
+I support companies in modernizing legacy systems, designing scalable backend architectures and implementing production-ready microservices.
+
+## 📫 Contact
+LinkedIn: https://linkedin.com/in/marc-stornfels
